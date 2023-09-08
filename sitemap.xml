@@ -2,11 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.sbiapack499.org/wolf-den/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.sbiapack499.org/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.sbiapack499.org/posts/activities/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.sbiapack499.org/posts/new-memebers/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.sbiapack499.org/advancements/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -34,11 +46,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.sbiapack499.org/posts/how-scouting-is-organized/</loc>
+    <loc>https://www.sbiapack499.org/dens/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.sbiapack499.org/posts/new-memebers/</loc>
+    <loc>https://www.sbiapack499.org/posts/how-scouting-is-organized/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
