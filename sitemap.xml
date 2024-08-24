@@ -6,11 +6,15 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.sbiapack499.org/activities/popcorn/</loc>
+    <loc>https://www.sbiapack499.org/activities/stem/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.sbiapack499.org/activities/rgr/</loc>
+    <loc>https://www.sbiapack499.org/posts/stem/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.sbiapack499.org/activities/popcorn/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -18,7 +22,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.sbiapack499.org/activities/pwd/</loc>
+    <loc>https://www.sbiapack499.org/activities/rgr/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -31,6 +35,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.sbiapack499.org/activities/council/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.sbiapack499.org/activities/pwd/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
