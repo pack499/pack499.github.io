@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.sbiapack499.org/activities/council/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.sbiapack499.org/dens/lion/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -18,11 +22,19 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.sbiapack499.org/dens/tiger/</loc>
+    <loc>https://www.sbiapack499.org/activities/pwd/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.sbiapack499.org/activities/rgr/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.sbiapack499.org/dens/tiger/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.sbiapack499.org/activities/wolf-adv/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -34,15 +46,27 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.sbiapack499.org/activities/council/</loc>
+    <loc>https://www.sbiapack499.org/activities/lion-adv/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.sbiapack499.org/activities/pwd/</loc>
+    <loc>https://www.sbiapack499.org/activities/tiger-adv/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.sbiapack499.org/dens/webelos/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.sbiapack499.org/activities/bear-adv/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.sbiapack499.org/activities/webelos-adv/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.sbiapack499.org/activities/aol-adv/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
