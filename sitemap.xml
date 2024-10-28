@@ -70,6 +70,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.sbiapack499.org/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.sbiapack499.org/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -107,10 +111,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.sbiapack499.org/posts/adventures/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.sbiapack499.org/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
