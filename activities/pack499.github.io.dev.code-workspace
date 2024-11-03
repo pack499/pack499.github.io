@@ -1,10 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "../../pack499.github.io.dev"
+			"path": "../.."
 		},
 		{
-			"path": ".."
+			"path": "../../../pack499.github.io"
 		}
 	],
 	"settings": {}
