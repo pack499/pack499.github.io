@@ -10,15 +10,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.sbiapack499.org/posts/pack-dues/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://www.sbiapack499.org/activities/stem/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.sbiapack499.org/posts/stem/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -26,15 +18,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.sbiapack499.org/activities/popcorn/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.sbiapack499.org/activities/pwd/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.sbiapack499.org/activities/rgr/</loc>
+    <loc>https://www.sbiapack499.org/posts/cost-of-scouting/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -43,6 +27,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.sbiapack499.org/activities/wolf-adv/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.sbiapack499.org/posts/new-memebers/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -62,6 +50,14 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.sbiapack499.org/activities/popcorn/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.sbiapack499.org/posts/pack-dues/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.sbiapack499.org/dens/webelos/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -74,7 +70,19 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.sbiapack499.org/activities/rgr/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.sbiapack499.org/posts/stem/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.sbiapack499.org/activities/aol-adv/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.sbiapack499.org/activities/pwd/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -94,10 +102,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.sbiapack499.org/posts/new-memebers/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://www.sbiapack499.org/advancements/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -111,10 +115,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.sbiapack499.org/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.sbiapack499.org/posts/cost-of-scouting/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
